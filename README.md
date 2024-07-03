@@ -1,4 +1,5 @@
 Project Overview
+
 The App Review Analysis and Insights project is designed to analyze user reviews from the Google Play Store to extract actionable insights for developers. This project utilizes Natural Language Processing (NLP) techniques to perform sentiment analysis and topic modeling on the collected reviews. The goal is to help developers understand user feedback better and address their concerns effectively.
 
 Features
@@ -8,6 +9,9 @@ Features
 * Visualization of sentiment and topics for easy interpretation
 
 Technologies Used
-Programming Language: Python
-Libraries: BeautifulSoup, pandas, scikit-learn, NLTK, gensim
-Development Environment: Jupyter Notebook
+
+* Programming Language: Python
+
+* Libraries: BeautifulSoup, pandas, scikit-learn, NLTK, gensim
+
+* Development Environment: Jupyter Notebook
