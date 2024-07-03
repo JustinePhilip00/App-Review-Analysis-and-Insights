@@ -8,6 +8,6 @@ Features
 * Visualization of sentiment and topics for easy interpretation
 
 Technologies Used
-*Programming Language: Python
-*Libraries: BeautifulSoup, pandas, scikit-learn, NLTK, gensim
-*Development Environment: Jupyter Notebook
+Programming Language: Python
+Libraries: BeautifulSoup, pandas, scikit-learn, NLTK, gensim
+Development Environment: Jupyter Notebook
